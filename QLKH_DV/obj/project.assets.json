@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\OneDrive\\Desktop\\csharp_trường\\QLKH_DV\\QLKH_DV.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\OneDrive\\Desktop\\csharp_trường\\SHARE\\QLKH_DV\\QLKH_DV.csproj",
       "projectName": "QLKH_DV",
-      "projectPath": "C:\\Users\\Dell\\OneDrive\\Desktop\\csharp_trường\\QLKH_DV\\QLKH_DV.csproj",
+      "projectPath": "C:\\Users\\Dell\\OneDrive\\Desktop\\csharp_trường\\SHARE\\QLKH_DV\\QLKH_DV.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\OneDrive\\Desktop\\csharp_trường\\QLKH_DV\\obj\\",
+      "outputPath": "C:\\Users\\Dell\\OneDrive\\Desktop\\csharp_trường\\SHARE\\QLKH_DV\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
